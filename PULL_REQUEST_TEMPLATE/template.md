@@ -3,15 +3,15 @@
 > 🔔 Please make sure to enter the necessary data.
 
 🚀 **Developed functionality**
-> Affected module.
-
 > Description of the developed functionality.
+
+> Affected module.
 
 > Azure DevOps task.
 
 **Do you think you should mention anything else?:**
 ```
-// Comments
+Comments
 ```
 ### Checklist:
 - [ ] Documentation approval.

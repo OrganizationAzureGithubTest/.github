@@ -20,3 +20,14 @@ Por favor, proporciona un resumen del cambio y cuál es el problema que se está
 - [ ] Documentation approval
 - [ ] Test approval record
 - [ ] Code review approval record
+
+**Tipo de cambio:**
+- [ ] Bugfix
+- [ ] Nueva característica
+- [ ] Mejora
+
+**Tarea relacionada:** [Enlace a la tarea/ticket]
+
+**¿Cómo se puede probar este cambio?**
+
+> Tu respuesta aquí.

@@ -4,7 +4,8 @@ Por favor, proporciona un resumen del cambio y cuál es el problema que se está
 
 ### Tipo de cambio
 
-- [ ] Affected module.
+Affected module.
+> Affected module.
 - [ ] Description of the developed functionality.
 - [ ] GitHub Repository.
 - [ ] GitHub Branch where the development process took place.

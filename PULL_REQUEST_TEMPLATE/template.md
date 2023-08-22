@@ -2,9 +2,22 @@
 
 Por favor, proporciona un resumen del cambio y cuál es el problema que se está resolviendo.
 
+🚀 **Nuevas características**
+
+**Referencias:**
+- [Enlace a la documentación o issue relevante](#)
+
+**Ejemplo de uso:**
+```GO
+// Inserta tu código aquí
+```
+
+> 🔔 Por favor, asegúrate de actualizar la documentación si es necesario.
+
 ### Tipo de cambio
 
-Affected module. > Affected module.
+Affected module. 
+> Affected module.
 - [ ] Description of the developed functionality.
 - [ ] GitHub Repository.
 - [ ] GitHub Branch where the development process took place.

@@ -1,46 +1,19 @@
-### Descripción
+### CUEMBY
 
-Por favor, proporciona un resumen del cambio y cuál es el problema que se está resolviendo.
+> 🔔 Please make sure to enter the necessary data.
 
-🚀 **Nuevas características**
-
-**Referencias:**
-- [Enlace a la documentación o issue relevante](#)
-
-**Ejemplo de uso:**
-```GO
-// Inserta tu código aquí
-```
-
-> 🔔 Por favor, asegúrate de actualizar la documentación si es necesario.
-
-### Tipo de cambio
-
-Affected module. 
+🚀 **Developed functionality**
 > Affected module.
-- [ ] Description of the developed functionality.
-- [ ] GitHub Repository.
-- [ ] GitHub Branch where the development process took place.
-- [ ] Pull Request number.
-- [ ] Azure DevOps task.
+> Description of the developed functionality
+> Azure DevOps task.
 
-
- Corrección de errores (cambio no disruptivo que soluciona un problema)
-- [ ] Nueva característica (cambio no disruptivo que añade funcionalidad)
-- [ ] Cambio disruptivo (corrección o característica que causaría una interrupción en la funcionalidad existente)
-
+**Do you think you should mention anything else?:**
+```
+// Comments
+```
 ### Checklist:
-- [ ] Documentation approval
-- [ ] Test approval record
-- [ ] Code review approval record
-
-**Tipo de cambio:**
-- [ ] Bugfix
-- [ ] Nueva característica
-- [ ] Mejora
+- [ ] Documentation approval.
+- [ ] Test approval.
+- [ ] Code review approval.
 
 **Tarea relacionada:** [Enlace a la tarea/ticket]
-
-**¿Cómo se puede probar este cambio?**
-
-> Tu respuesta aquí.

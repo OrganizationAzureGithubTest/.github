@@ -4,7 +4,9 @@
 
 🚀 **Developed functionality**
 > Affected module.
-> Description of the developed functionality
+
+> Description of the developed functionality.
+
 > Azure DevOps task.
 
 **Do you think you should mention anything else?:**
@@ -15,5 +17,3 @@
 - [ ] Documentation approval.
 - [ ] Test approval.
 - [ ] Code review approval.
-
-**Tarea relacionada:** [Enlace a la tarea/ticket]

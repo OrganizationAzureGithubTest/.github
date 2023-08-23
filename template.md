@@ -7,7 +7,7 @@
 
 > Affected module.
 
-> Risks module 
+> Risks modules 
 
 > Azure DevOps task.
 

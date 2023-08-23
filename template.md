@@ -7,6 +7,8 @@
 
 > Affected module.
 
+> Risks module 
+
 > Azure DevOps task.
 
 **Do you think you should mention anything else?:**
